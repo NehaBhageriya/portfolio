@@ -33,7 +33,7 @@ function About() {
                 <a href={cv} download>
                   <button className="about btn pointer">Download Cv</button>
                 </a>
-                <a href="#">
+                <a href="#Home">
                   <button className="about btn pointer">Hire Me</button>
                 </a>
               </div>
@@ -43,7 +43,7 @@ function About() {
       </div>
       {/* UP TO TOP BTN */}
       <div className="up__to__top__btn">
-        <a href="#" className="bottom__to__top">
+        <a href="#Home" className="bottom__to__top">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"
